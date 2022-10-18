@@ -21,7 +21,7 @@
     max-speed
     acceleration
     seats
-
+    tags/categories
 
 
     registration

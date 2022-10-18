@@ -1,0 +1,145 @@
+{
+  "prototype": {
+    "car_ID": ["PRIMARY_KEY", "UNIQUE"],
+    "maker": "Honda",
+    "model": "Civic Hatchback",
+    "trim": "LX",
+    "year": 2019,
+
+    "type": "sedan",
+    "tags": "",
+
+    "fuel": "petrol",
+    "tank_litres": 56.4,
+    "fuel_efficiency_low": 6,
+    "fuel_efficiency_high": 9.2,
+    "motor_cm3": 1597, 
+    "emissions_g_100km": 144, 
+
+    "transmission": "auto",
+    "drive": "FWD",
+    "cylinders": "4",
+    "horsepower": 174,
+    "torque_Nm": 152,
+    "acceleration_100m_s": 11,
+    "top_speed_km_h": 196,
+
+    "seats": 5,
+    "cargo_space_l": 519,
+
+    "length_m": 4.648,
+    "width_m": 1.799,
+    "height_m": 1.416, 
+
+    "msrp_euro": 21000,
+    "base_warranty_years": 3
+  }, 
+
+  "values": {
+    "car_ID": 4,
+    "maker": "Honda",
+    "model": "Civic Hatchback",
+    "trim": "LX",
+    "year": 2019,
+
+    "type": "sedan",
+    "tags": "",
+
+    "fuel": "petrol",
+    "tank_litres": 56.4,
+    "fuel_efficiency_low": 6,
+    "fuel_efficiency_high": 9.2,
+    "motor_cm3": 1597, 
+    "emissions_g_100km": 144, 
+
+    "transmission": "auto",
+    "drive": "FWD",
+    "cylinders": "4",
+    "horsepower": 174,
+    "torque_Nm": 152,
+    "acceleration_100m_s": 11,
+    "top_speed_km_h": 196,
+
+    "seats": 5,
+    "cargo_space_l": 519,
+
+    "length_m": 4.648,
+    "width_m": 1.799,
+    "height_m": 1.416, 
+
+    "msrp_euro": 21000,
+    "base_warranty_years": 3
+  },
+
+  "example1": {
+    "car_ID": 4,
+    "maker": "Honda",
+    "model": "Civic Hatchback",
+    "trim": "LX",
+    "year": 2019,
+
+    "type": "sedan",
+    "tags": "compact",
+
+    "fuel": "petrol",
+    "tank_litres": 56.4,
+    "fuel_efficiency_low": 6,
+    "fuel_efficiency_high": 9.2,
+    "motor_cm3": 1597, 
+    "emissions_g_100km": 144, 
+
+    "transmission": "auto",
+    "drive": "FWD",
+    "cylinders": "4",
+    "horsepower": 174,
+    "torque_Nm": 152,
+    "acceleration_100m_s": 11,
+    "top_speed_km_h": 196,
+
+    "seats": 5,
+    "cargo_space_l": 519,
+
+    "length_m": 4.648,
+    "width_m": 1.799,
+    "height_m": 1.416, 
+
+    "msrp_euro": 21000,
+    "base_warranty_years": 3
+  },
+
+  "example2": {
+    "car_ID": 4,
+    "maker": "Honda",
+    "model": "Civic Hatchback",
+    "trim": "LX",
+    "year": 2019,
+
+    "type": "sedan",
+    "tags": "compact",
+
+    "fuel": "petrol",
+    "tank_litres": 56.4,
+    "fuel_efficiency_low": 6,
+    "fuel_efficiency_high": 9.2,
+    "motor_cm3": 1597, 
+    "emissions_g_100km": 144, 
+
+    "transmission": "auto",
+    "drive": "FWD",
+    "cylinders": "4",
+    "horsepower": 174,
+    "torque_Nm": 152,
+    "acceleration_100m_s": 11,
+    "top_speed_km_h": 196,
+
+    "seats": 5,
+    "cargo_space_l": 519,
+
+    "length_m": 4.648,
+    "width_m": 1.799,
+    "height_m": 1.416, 
+
+    "msrp_euro": 21000,
+    "base_warranty_years": 3
+  }
+}
