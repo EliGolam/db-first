@@ -26,6 +26,7 @@
 
     "seats": ["NOTNULL"],
     "cargo_space_l": ["NULL"],
+    "num_doors": "NOTNULL",
 
     "length_m": ["NOTNULL"],
     "width_m": ["NOTNULL"],
@@ -62,6 +63,7 @@
 
     "seats": 5,
     "cargo_space_l": 519,
+    "num_doors": "2",
 
     "length_m": 4.648,
     "width_m": 1.799,
@@ -70,6 +72,7 @@
     "msrp_euro": 21000,
     "base_warranty_years": 3
   },
+
 
   "example1": {
     "car_ID": 4,
@@ -98,6 +101,7 @@
 
     "seats": 5,
     "cargo_space_l": 519,
+    "num_doors": "2",
 
     "length_m": 4.648,
     "width_m": 1.799,
@@ -106,6 +110,7 @@
     "msrp_euro": 21000,
     "base_warranty_years": 3
   },
+
 
   "example2": {
     "car_ID": 4,
@@ -134,6 +139,7 @@
 
     "seats": 5,
     "cargo_space_l": 519,
+    "num_doors": "2",
 
     "length_m": 4.648,
     "width_m": 1.799,
